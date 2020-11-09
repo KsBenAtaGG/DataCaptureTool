@@ -1,7 +1,5 @@
 # Data Capture Tool
 
-- Data Capture Tool is running only Kali Linux
+- data.py running in Kali Linux
 
-# Notices
-
-- 
+- The responsibility for the misuse of this tool belongs entirely to the user!
