@@ -1,6 +1,6 @@
 # Data Capture Tool
 
-- data.py running in Kali Linux an Python
+- data.py running in Kali Linux and Parrot
 
 Notice:
 
