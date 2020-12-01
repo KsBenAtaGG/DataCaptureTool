@@ -44,4 +44,4 @@ if(islemno == "4"):
 
 else:
 	print("\033[92mYou entered an incorrect number value. Vehicle is Restarting..")
-	os.system("python veri.py")
+	os.system("python data.py")
